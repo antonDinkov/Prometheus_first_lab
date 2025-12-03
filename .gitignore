@@ -1,0 +1,6 @@
+data/
+LICENSE
+NOTICE
+prometheus.exe
+promtool.exe
+initial prometheus yaml config.txt
